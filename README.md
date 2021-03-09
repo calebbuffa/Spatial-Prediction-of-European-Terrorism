@@ -1,2 +1,2 @@
 # Spatial-Prediction-of-European-Terrorism
-This study uses remote sensing, demographic, civil unrest, and human geography data to build a descriptive and inferential model to predict areas at risk for terrorist attacks
+This study compares machine learning and deep learning techniques to predict the spatial risk of terrorism in Europe using remote sensing, human geography, civil unrest, and demographic data.
